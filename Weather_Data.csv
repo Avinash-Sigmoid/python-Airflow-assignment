@@ -1,0 +1,11 @@
+State,Description,Temperature,Feels_Like_Temperature,Min_Temperature,Max_Temperature,Humidity,Clouds
+Patna,haze,75.13,75.34,75.13,75.13,64,0
+Delhi,mist,75.29,76.95,75.29,82.31,94,0
+Bengaluru,few clouds,74.84,74.37,73.22,74.84,50,20
+Goa,scattered clouds,77.49,78.55,77.49,77.49,77,36
+Mumbai,smoke,91.38,87.55,91.38,91.38,19,22
+Jaipur,haze,79.92,79.92,79.92,79.92,41,0
+Hyderabad,broken clouds,76.51,75.33,76.51,76.51,31,70
+Pune,few clouds,79.36,79.36,79.36,79.36,19,11
+Hyderabad,broken clouds,76.51,75.33,76.51,76.51,31,70
+Chandigarh,clear sky,73.36,72.43,73.36,73.36,43,2
